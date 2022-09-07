@@ -66,15 +66,15 @@ body {
 
   .top-cloud {
     position: absolute;
-    right: 400px;
+    right: 100px;
     top: 40px;
     width: 200px;
   }
 
   .bottom-cloud {
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 10%;
+    bottom: 200px;
     width: 180px;
   }
 
